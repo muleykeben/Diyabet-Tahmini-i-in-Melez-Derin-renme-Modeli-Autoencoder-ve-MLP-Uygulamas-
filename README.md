@@ -1,0 +1,1 @@
+# Diyabet-Tahmini-i-in-Melez-Derin-renme-Modeli-Autoencoder-ve-MLP-Uygulamas-
