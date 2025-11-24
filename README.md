@@ -1,4 +1,4 @@
-# Diyabet Tahmini İçin Melez Derinöğrenme Modeli Autoencoder ve MLP Uygulaması
+# Hybrid Deep Learning Model for Diabetes Prediction: Autoencoder and MLP Implementation
 Bu çalışma, bireylerin sağlık verilerine dayalı olarak diyabet durumlarını tahmin etmek amacıyla Hacettepe Üniversitesi İstatistik Bölümü'nde IST493 Seminer Dersi kapsamında geliştirilmiştir. Projede, veri setindeki dengesizliği gidermek için SMOTE yöntemi uygulanmış, ardından boyut indirgeme için bir Autoencoder ve sınıflandırma için bir Çok Katmanlı Algılayıcı (MLP)  içeren hibrit bir derin öğrenme mimarisi kullanılmıştır.
 
 # 📝 1. Veri Ön İşleme (Data Preprocessing)
